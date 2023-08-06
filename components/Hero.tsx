@@ -7,7 +7,7 @@ import CustomButton from './CustomButton'
 const Hero = () => {
 
     const handleScroll = () => {
-            let i = 0
+            let i = 4
     }
 
 
