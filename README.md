@@ -1,6 +1,6 @@
 ## Car Showcase
 
-This car showcase is a state of the art modern application built for car enthusiats. 
+This car showcase is a state of the art modern application built for car enthusiasts. 
 The entire application is fully mobile responsive and implements advanced search and filter functionality. 
 It is powered by Rapid API, displaying car models and details. 
 The frontend uses NEXT.js, Typescript, Tailwind CSS and Headless UI.
