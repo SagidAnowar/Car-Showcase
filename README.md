@@ -1,4 +1,4 @@
-## Car-Showcase
+## Car Showcase
 
 This car showcase is a state of the art modern application built for car enthusiats. 
 The entire application is fully mobile responsive and implements advanced search and filter functionality. 
