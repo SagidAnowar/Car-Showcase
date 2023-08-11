@@ -3,7 +3,7 @@
 This car showcase is a state of the art modern application built for car enthusiats. 
 The entire application is fully mobile responsive and implements advanced search and filter functionality. 
 It is powered by Rapid API, displaying car models and details. 
-The frontend uses NEXT.js, Typescript, and Tailwind CSS. 
+The frontend uses NEXT.js, Typescript, Tailwind CSS and Headless UI.
 
 <img width="988" alt="car-showcase" src="https://github.com/SagidAnowar/car-showcase/assets/121697604/90928bdd-034d-43f5-b64d-cdf403ba060e">
 
